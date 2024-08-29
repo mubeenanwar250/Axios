@@ -6,8 +6,8 @@ import axios from "./Axios";
 // const API = "https://jsonplaceholder.typicode.com";
 
 function App() {
-  const [myData, setMyData] = useState([]);
-  const [isError, setError] = useState("");
+  // const [myData, setMyData] = useState([]);
+  // const [isError, setError] = useState("");
 
   // Note: using Promises
 
